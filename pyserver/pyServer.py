@@ -550,7 +550,7 @@ import time
 import datetime
 import select
 
-conn = pymysql.connect(host='lbsg98.duckdns.org', port=20000, user='echatbot', password='echatbot2016', db='echatbotdb', charset='utf8')
+conn = pymysql.connect(host=, port=, user=, password=, db=, charset=)
 cursor = conn.cursor()
 q = queue.Queue(32)
 
