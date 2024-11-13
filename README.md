@@ -1,5 +1,5 @@
 # Music_Recommendation_Chatbot_webservice
-종합설계프로젝트_ICE3037_48(이진규) 수업에서 구현한 Personalized Music Recommendation Chatbot의 웹 서비스 구현코드입니다.
+종합설계프로젝트 수업에서 구현한 Personalized Music Recommendation Chatbot의 웹 서비스 구현코드입니다.
 해당 프로젝트에서 제가 구현한 부분만 정리하여 공개하는 레포지토리입니다.
 AI 엔진 GPT 학습은 타 조원이 기여하였으므로 해당 레포지토리에는 포함되어있지 않습니다.
 pyserver의 음악 추천 부분, 학습된 GPT 사용 부분은 타 조원들의 기여가 있습니다.
